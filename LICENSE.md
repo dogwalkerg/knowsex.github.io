@@ -2,26 +2,26 @@
 
 # 版权许可
 
-本文编辑于 2021 年 10 月 27 日。
+本文编辑于 2023 年 4 月 5 日。
 
 ## 内容部分
 
-知性（KnowSex.net）网站的文章文字部分允许您在
+KnowSex（KnowSex.net）网站的文章文字部分允许您在
 
 1. 附上原文链接；
 2. 不用于商业用途；
-3. 标明来源于知性（KnowSex.net）；
+3. 标明来源于 KnowSex（KnowSex.net）；
 4. 不违反中华人民共和国法律及您使用时涉及的国家或地区的法律
 
 之情况下使用。
 
-若有可能违背上述条款的行为，请与知性[通过邮件联系](mailto:knowsex@outlook.com)（knowsex@outlook.com）。
+若有可能违背上述条款的行为，请与 KnowSex [通过邮件联系](mailto:knowsex@outlook.com)（knowsex@outlook.com）。
 
-对于图片部分，版权请参考附于文末的“图片来源”的“来源”列，按照原作者的版权要求进行使用。若无特殊说明，在您遵守 [署名-相同方式共享 4.0 国际](http://creativecommons.org/licenses/by-sa/4.0/) 许可时，这些图片均在符合版权规定使用的范围内。
+对于图片部分，版权请参考附于文末的“图片来源”的“来源”列，按照原作者的版权要求进行使用。
 
 您不得利用本站撰写之内容创建几乎完全一致的、相似功能的传播资料。
 
-知性（KnowSex.net）不为您的行为之后果背书。
+KnowSex（KnowSex.net）不为您的行为之后果背书。
 
 ## 外观设计
 
@@ -40,7 +40,7 @@
 
 **NOTICE: Translated with www.DeepL.com/Translator , translation is machine translation, for reference only, the original Simplified Chinese text shall prevail.**
 
-This article was edited on October 27, 2021.
+This article was edited on April 5, 2023.
 
 ## Content
 
@@ -53,7 +53,7 @@ The text part of the article on KnowSex.net allows you to use it under the follo
 
 If there is any possible violation of the above terms, please contact KnowSex [by email](mailto:knowsex@outlook.com) (knowsex@outlook.com).
 
-For images, please refer to the "Source" column in the "Image Sources" section at the end of the article, and use them in accordance with the copyright requirements of the original author. Unless otherwise noted, these images are used in accordance with the copyrighted use of the [BY-SA 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license when you comply with it.
+For images, please refer to the "Source" column in the "Image Sources" section at the end of the article, and use them in accordance with the copyright requirements of the original author. 
 
 You may not use the content written on KnowSex.net to create virtually identical, functionally similar communications.
 
