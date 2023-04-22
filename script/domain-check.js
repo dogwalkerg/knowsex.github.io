@@ -8,5 +8,5 @@ domains.forEach(function(domain) {
     }
 });
 if (!domainCheckValid) {
-    document.getElementById("domain-notice").innerHTML = `<p class="bg-light tip-bar">ℹ️ 您正在访问非官方提供的镜像网站。所提供的内容可能已经陈旧，最新页面请访问 <a href="https://knowsex.net/">knowsex.net</a>。</p>`;
+    document.getElementById("domain-notice").innerHTML = `<p class="bg-light tip-bar"><span class="darkmode-ignore">ℹ️</span> 您正在访问非官方提供的镜像网站。所提供的内容可能已经陈旧，最新页面请访问 <a href="https://knowsex.net/">knowsex.net</a>。</p>`;
 }
