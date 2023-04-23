@@ -330,13 +330,12 @@
     let browser = parser.getResult().browser.name;
     let os = parser.getResult().os.name;
     const browser_list = [
-        "2345Explorer",/* "360 Browser",*/
-        "Baidu", "QQ", "QQBrowser", "QQBrowserLite",  "Quark",
-        "UCBrowser", "WeChat", "baidu", "MIUI Browser",
-        "baiduboxapp", "WeChat(Win) Desktop", "QQBrowserLite", "BIDUBrowser", 
-        "LBBROWSER", "MetaSr" /* <- SouGouBrowser */
+        "Baidu", "QQ", "QQBrowser", "QQBrowserLite", "Quark",
+        "WeChat", "baidu", "MIUI Browser",
+        "baiduboxapp", "WeChat(Win) Desktop", "BIDUBrowser", "MetaSr" /*SouGouBrowser*/
     ];
     //Maxthon?
+    //Removed: "2345Explorer", "360 Browser","UCBrowser","LBBROWSER",
     console.log(browser)
     if(browser_list.includes(browser)) {
         document.querySelector(".browser_tip").innerHTML = `
