@@ -310,9 +310,11 @@
 		}
 		const htmlTag = document.querySelector("html");
 
-		let userMode = localStorage.getItem("userMode");
 		// sys,dark,light
-		applyMode(userMode);
+		if(getMode() == null){
+			localStorage.setItem("userMode", "sys");
+		}
+		applyMode(getMode());
 
 		//针对用户选择的主题模式进行操作
 		function applyMode(userMode) {
