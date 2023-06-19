@@ -8,3 +8,27 @@ console.log("%c欢迎来到知性，一个性教育网站。如果你觉得网�
 // let startDate = new Date("2021-02-06T00:00:00");
 // let founded = Math.floor((nowDate.getTime() - startDate.getTime())/1000/60/60/24)-1;
 // document.querySelector("#countDays").textContent = `📅 知性已成立 ${founded} 天。`;
+
+document.addEventListener('DOMContentLoaded', function() {
+    var references = document.querySelectorAll('sup.reference');
+    references.forEach(function(reference) {
+      reference.addEventListener('click', function(event) {
+        var referenceId = event.currentTarget.id;
+        var anchorElement = reference.querySelector('a');
+        if (anchorElement) {
+          highlightText(referenceId);
+        }
+      });
+    });
+
+    function highlightText(referenceId) {
+      var textId = 'cite_note-' + referenceId.substring(9);
+      var textElement = document.getElementById(textId);
+      if (textElement) {
+        textElement.classList.add('highlight-reference');
+        setTimeout(function() {
+          textElement.classList.remove('highlight-reference');
+        }, 5000); 
+      }
+    }
+});
