@@ -19,3 +19,5 @@ KnowSex 是面向中学生及以上年龄段群体的性知识科普网站。我
 ## 鼓励
 
 如果您觉得网站还不错，希望您能推荐给朋友。
+
+![封面](https://repository-images.githubusercontent.com/344822379/d9a97024-b601-4061-9983-93758b70b56f)
