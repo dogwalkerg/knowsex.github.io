@@ -4,9 +4,9 @@ KnowSex 是面向中学生及以上年龄段群体的性知识科普网站。我
 
 ## 网站
 
-主域名为 [knowsex.net](https://knowsex.net) 。以下是备用地址：
-* [github.knowsex.net](https://github.knowsex.net)
-* [knowsex.vercel.app](https://knowsex.vercel.app)
+* 主域：[knowsex.net](https://knowsex.net) 
+* 备用：[github.knowsex.net](https://github.knowsex.net)
+* 备用：[knowsex.vercel.app](https://knowsex.vercel.app)
 
 ## 版权
 
