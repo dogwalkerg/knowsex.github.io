@@ -1,5 +1,5 @@
 
-const domains = ["knowsex.net", "knowsex.vercel.app", "knowsex.on.fleek.co"];
+const domains = ["knowsex.net", "knowsex.vercel.app", "knowsex.on.fleek.co", "knowsex.github.io", "knowsex.pages.dev"];
 const domainCheckHostname = window.location.hostname;
 var domainCheckValid = false;
 domains.forEach(function(domain) {
